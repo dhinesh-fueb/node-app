@@ -10,3 +10,5 @@ ssh ubuntu@3.6.39.159 <<EOF
     pm2 restart ecosystem.config.js
     exit
 EOF
+
+
